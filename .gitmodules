@@ -1,0 +1,3 @@
+[submodule "Packages/src/VMSRP"]
+	path = Packages/src/VMSRP
+	url = https://github.com/fakestuff/VMSRP.git
