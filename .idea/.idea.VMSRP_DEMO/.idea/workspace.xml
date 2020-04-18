@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d54be98-7c4b-4f83-bfcb-449c3ec299b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/ConstructionLight_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/ConstructionLight_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/DryWallPainted_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/DryWallPainted_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/DryWall_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/DryWall_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Ground_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Ground_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Hammer_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Hammer_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/HardHat_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/HardHat_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Jigsaw_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Jigsaw_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/LightBulb_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/LightBulb_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Liquid_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Liquid_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Metal_Blue_Simple_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Metal_Blue_Simple_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Metal_Simple_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Metal_Simple_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/OBS_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/OBS_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Paint1G_WAnim_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Paint1G_WAnim_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/PaintBrush_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/PaintBrush_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/PaintLabel_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/PaintLabel_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Black_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Black_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Gray_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Gray_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Ridges_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Ridges_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Rough_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Rough_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Transparent.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Transparent.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_White_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_White_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Yellow_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Yellow_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Strap_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Strap_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Stud_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Stud_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/ForwardRenderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/ForwardRenderer.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP-HighQuality.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP-HighQuality.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP-LowQuality.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP-LowQuality.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP-MediumQuality.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP-MediumQuality.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Runtime/ShaderBindings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F38C71C8-6AA6-4E29-9D4C-EA9FB7C715E1/43/1b14ec57/RenderPipeline.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Runtime/MRTBufferManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.2.0/Runtime/Textures/RTHandles.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Tests/Runtime/Unity.com.render-pipelines.custom.Tests.asmdef" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F38C71C8-6AA6-4E29-9D4C-EA9FB7C715E1/bd/d0ba5199/CommandBuffer.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/MRTBufferManager.cs" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/ShaderBindings.cs" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aiRQjMSOTPks4fKLdRVPcoOko0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d54be98-7c4b-4f83-bfcb-449c3ec299b0" name="Default Changelist" comment="" />
+      <created>1587216414534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587216414534</updated>
+      <workItem from="1587216436935" duration="8584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="270" y="57" key="SettingsEditor" timestamp="1587216469054">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587216469054" />
+  </component>
+</project>
