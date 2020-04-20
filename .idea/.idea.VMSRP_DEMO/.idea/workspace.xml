@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d54be98-7c4b-4f83-bfcb-449c3ec299b0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Unlit.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Unlit.shader" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +35,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.2.0/Runtime/Textures/TextureXR.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Runtime/ShaderBindings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Lit.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F38C71C8-6AA6-4E29-9D4C-EA9FB7C715E1/43/1b14ec57/RenderPipeline.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Unlit.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.2.0/Runtime/Textures/RTHandles.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.2.0/Runtime/Textures/RTHandleSystem.cs" root0="SKIP_HIGHLIGHTING" />
@@ -49,6 +49,8 @@
       <list>
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/MRTBufferManager.cs" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/ShaderBindings.cs" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Unlit.shader" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Lit.shader" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" />
       </list>
     </option>
@@ -93,7 +95,8 @@
       <workItem from="1587216436935" duration="8627000" />
       <workItem from="1587283957324" duration="1215000" />
       <workItem from="1587302904367" duration="1199000" />
-      <workItem from="1587311649407" duration="2418000" />
+      <workItem from="1587311649407" duration="3212000" />
+      <workItem from="1587398455800" duration="3975000" />
     </task>
     <servers />
   </component>
