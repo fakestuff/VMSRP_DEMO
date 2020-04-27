@@ -21,11 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2d54be98-7c4b-4f83-bfcb-449c3ec299b0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Lit.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Lit.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Unlit.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Unlit.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.shader" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +96,7 @@
       <workItem from="1587311649407" duration="3212000" />
       <workItem from="1587398455800" duration="3975000" />
       <workItem from="1587619915069" duration="3079000" />
-      <workItem from="1587738193784" duration="11519000" />
+      <workItem from="1587738193784" duration="14895000" />
     </task>
     <servers />
   </component>
