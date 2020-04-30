@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d54be98-7c4b-4f83-bfcb-449c3ec299b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/SurfaceInput.hlsl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/OBS_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/OBS_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.shader" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,17 +36,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Packages/src/VMSRP" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/UnityInstancing.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Unlit.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Input.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Runtime/ShaderBindings.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/Sampling/Sampling.hlsl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Core.hlsl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/ShaderVariables.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/UnitTesting/RiderTestRunner.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Runtime/Textures/RTHandles.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Shaders/DeferredLighting.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/Common.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/Sampling/Fibonacci.hlsl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/SurfaceInput.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Tests/Runtime/Unity.com.render-pipelines.custom.Tests.asmdef" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Runtime/Textures/TextureXR.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/Macros.hlsl" root0="FORCE_HIGHLIGHTING" />
@@ -58,8 +65,11 @@
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Unlit.shader" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Lit.shader" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Lit1.shader" />
-        <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/DeferredLighting.shader" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/DeferredLighting.shader" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Input.hlsl" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Core.hlsl" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/SurfaceInput.hlsl" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.shader" />
       </list>
     </option>
@@ -86,10 +96,10 @@
       <option name="pid" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="417004">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="417004" />
+      <option name="pid" />
       <method v="2" />
     </configuration>
   </component>
@@ -109,7 +119,8 @@
       <workItem from="1587311649407" duration="3212000" />
       <workItem from="1587398455800" duration="3975000" />
       <workItem from="1587619915069" duration="3079000" />
-      <workItem from="1587738193784" duration="36469000" />
+      <workItem from="1587738193784" duration="55858000" />
+      <workItem from="1588220189412" duration="1203000" />
     </task>
     <servers />
   </component>
@@ -134,38 +145,78 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="375" key="GridCell.Tab.0.bottom" timestamp="1588007011071">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2005" height="242" key="GridCell.Tab.0.bottom" timestamp="1588165189316">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588007011071" />
-    <state width="1877" height="375" key="GridCell.Tab.0.center" timestamp="1588007011071">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2005" height="242" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
+    <state width="2005" height="242" key="GridCell.Tab.0.center" timestamp="1588165189316">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588007011071" />
-    <state width="1877" height="375" key="GridCell.Tab.0.left" timestamp="1588007011071">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2005" height="242" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
+    <state width="2005" height="242" key="GridCell.Tab.0.left" timestamp="1588165189316">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588007011071" />
-    <state width="1877" height="375" key="GridCell.Tab.0.right" timestamp="1588007011071">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2005" height="242" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
+    <state width="2005" height="242" key="GridCell.Tab.0.right" timestamp="1588165189316">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588007011071" />
-    <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1588007063657">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2005" height="242" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
+    <state width="2005" height="242" key="GridCell.Tab.1.bottom" timestamp="1588165189316">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1877" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588007063657" />
-    <state width="1877" height="375" key="GridCell.Tab.1.center" timestamp="1588007063657">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2005" height="242" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
+    <state width="2005" height="242" key="GridCell.Tab.1.center" timestamp="1588165189316">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1877" height="375" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588007063657" />
-    <state width="1877" height="375" key="GridCell.Tab.1.left" timestamp="1588007063657">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2005" height="242" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
+    <state width="2005" height="242" key="GridCell.Tab.1.left" timestamp="1588165189316">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1877" height="375" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588007063657" />
-    <state width="1877" height="375" key="GridCell.Tab.1.right" timestamp="1588007063657">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2005" height="242" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
+    <state width="2005" height="242" key="GridCell.Tab.1.right" timestamp="1588165189316">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1877" height="375" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588007063657" />
+    <state width="2005" height="242" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
+    <state width="2005" height="242" key="GridCell.Tab.2.bottom" timestamp="1588165189316">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="242" key="GridCell.Tab.2.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
+    <state width="2005" height="242" key="GridCell.Tab.2.center" timestamp="1588165189316">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="242" key="GridCell.Tab.2.center/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
+    <state width="2005" height="242" key="GridCell.Tab.2.left" timestamp="1588165189316">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="242" key="GridCell.Tab.2.left/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
+    <state width="2005" height="242" key="GridCell.Tab.2.right" timestamp="1588165189316">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="242" key="GridCell.Tab.2.right/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
+    <state width="2005" height="242" key="GridCell.Tab.3.bottom" timestamp="1588165189317">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="242" key="GridCell.Tab.3.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189317" />
+    <state width="2005" height="242" key="GridCell.Tab.3.center" timestamp="1588165189316">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="242" key="GridCell.Tab.3.center/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
+    <state width="2005" height="242" key="GridCell.Tab.3.left" timestamp="1588165189316">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="242" key="GridCell.Tab.3.left/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
+    <state width="2005" height="242" key="GridCell.Tab.3.right" timestamp="1588165189316">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="242" key="GridCell.Tab.3.right/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
     <state x="84" y="86" key="SettingsEditor" timestamp="1587911862311">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -175,10 +226,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1587312465371" />
-    <state x="-1954" y="290" width="835" height="532" key="find.popup" timestamp="1587980119011">
-      <screen x="-2560" y="0" width="2048" height="1112" />
+    <state x="606" y="290" width="835" height="532" key="find.popup" timestamp="1588138135259">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="-1954" y="290" width="835" height="532" key="find.popup/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1587980119011" />
+    <state x="606" y="290" width="835" height="532" key="find.popup/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1588138135259" />
     <state x="644" y="227" width="672" height="635" key="search.everywhere.popup" timestamp="1588005132239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
