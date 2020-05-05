@@ -20,12 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d54be98-7c4b-4f83-bfcb-449c3ec299b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/SurfaceInput.hlsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.hlsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBufferInput.hlsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/OBS_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/OBS_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Core.hlsl" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Core.hlsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Input.hlsl" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Input.hlsl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,26 +40,29 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Packages/src/VMSRP" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/UnityInstancing.hlsl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/Sampling/Sampling.hlsl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Runtime/ShaderBindings.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Unlit.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/UnityInstancing.hlsl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Shaders/DeferredLighting.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/SurfaceInput.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Input.hlsl" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Runtime/ShaderBindings.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/Sampling/Sampling.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Core.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/ShaderVariables.hlsl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F38C71C8-6AA6-4E29-9D4C-EA9FB7C715E1/bd/d0ba5199/CommandBuffer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/UnitTesting/RiderTestRunner.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Runtime/Textures/RTHandles.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Shaders/DeferredLighting.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/Common.hlsl" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/Sampling/Fibonacci.hlsl" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/SurfaceInput.hlsl" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Tests/Runtime/Unity.com.render-pipelines.custom.Tests.asmdef" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Runtime/Textures/TextureXR.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/Macros.hlsl" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../unity2019/Runtime/Export/Graphics/RenderingCommandBuffer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Runtime/Textures/RTHandles.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBufferInput.hlsl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Runtime/Textures/TextureXR.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F38C71C8-6AA6-4E29-9D4C-EA9FB7C715E1/43/1b14ec57/RenderPipeline.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.hlsl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/Sampling/Fibonacci.hlsl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Tests/Runtime/Unity.com.render-pipelines.custom.Tests.asmdef" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/Common.hlsl" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -67,10 +74,12 @@
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Lit1.shader" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/DeferredLighting.shader" />
-        <option value="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Input.hlsl" />
-        <option value="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Core.hlsl" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/SurfaceInput.hlsl" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.shader" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.hlsl" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBufferInput.hlsl" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Core.hlsl" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Input.hlsl" />
       </list>
     </option>
   </component>
@@ -121,6 +130,7 @@
       <workItem from="1587619915069" duration="3079000" />
       <workItem from="1587738193784" duration="55858000" />
       <workItem from="1588220189412" duration="1203000" />
+      <workItem from="1588579729102" duration="4803000" />
     </task>
     <servers />
   </component>
