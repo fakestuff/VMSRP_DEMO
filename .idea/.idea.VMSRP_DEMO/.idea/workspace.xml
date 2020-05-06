@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d54be98-7c4b-4f83-bfcb-449c3ec299b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/SurfaceInput.hlsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/OBS_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/OBS_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.shader" afterDir="false" />
-    </list>
+    <list default="true" id="2d54be98-7c4b-4f83-bfcb-449c3ec299b0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +118,7 @@
       <workItem from="1587398455800" duration="3975000" />
       <workItem from="1587619915069" duration="3079000" />
       <workItem from="1587738193784" duration="55858000" />
-      <workItem from="1588220189412" duration="1203000" />
+      <workItem from="1588220189412" duration="1204000" />
     </task>
     <servers />
   </component>
