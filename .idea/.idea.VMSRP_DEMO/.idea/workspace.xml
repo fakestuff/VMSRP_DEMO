@@ -20,25 +20,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d54be98-7c4b-4f83-bfcb-449c3ec299b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Lighting.hlsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/UnityInput.hlsl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VMSRP_DEMO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/ConstructionLight_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/ConstructionLight_Mat.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Ground_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Ground_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Jigsaw_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Jigsaw_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Yellow_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Yellow_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/PlasticRidges_MetallicOcculusionSmoothness.tif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/PlasticRidges_MetallicOcculusionSmoothness.tif.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Jigsaw/Jigsaw_MetallicOcculusionSmoothness.tif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Jigsaw/Jigsaw_MetallicOcculusionSmoothness.tif.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene/LightingData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene/Lightmap-0_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene/Lightmap-0_comp_light.exr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene/ReflectionProbe-0.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene/ReflectionProbe-0.exr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene/ReflectionProbe-1.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene/ReflectionProbe-1.exr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene/ReflectionProbe-1.exr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene/ReflectionProbe-1.exr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene/ReflectionProbe-2.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene/ReflectionProbe-2.exr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene/ReflectionProbe-3.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene/ReflectionProbe-3.exr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/Utility.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Core.hlsl" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Core.hlsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Input.hlsl" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Input.hlsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/ShaderVariables.hlsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/ShaderVariables.hlsl.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/SurfaceInput.hlsl" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/SurfaceInput.hlsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/ShaderBindings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/ShaderBindings.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/Unity.com.render-pipelines.custom.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/Unity.com.render-pipelines.custom.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Lighting.hlsl" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Lighting.hlsl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/DeferredLighting.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/DeferredLighting.shader" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBufferInput.hlsl" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBufferInput.hlsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/src/VMSRP/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/src/VMSRP/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,34 +61,47 @@
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.13/UnityEngine.TestRunner/Utils/StacktraceFilter.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/API/Vulkan.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Editor/EditorPrefBoolFlags.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.collections@0.8.0-preview.5/package.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.2.10/Editor/treeview/TimelineTrackGUI.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/Sampling/Sampling.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_SubMesh.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_Settings.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Runtime/Debugging/DebugShapes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.2.10/Runtime/Activation/ActivationPlayableAsset.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.2.10/Editor/Utilities/KeyTraverser.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SimpleCameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Runtime/Utilities/MaterialQuality.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/Sampling/Fibonacci.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_FontFeatureTable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.2.10/Editor/inspectors/GroupTrackInspector.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../unity2019/Runtime/Export/RenderPipeline/VisibleLight.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../unity2019/Runtime/Export/RenderPipeline/ScriptableRenderContext.bindings.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.2.10/Runtime/DiscreteTime.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.13/UnityEditor.TestRunner/Api/ExecutionSettings.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../unity2019/Runtime/Export/RenderPipeline/ScriptableRenderContext.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.2.10/Editor/inspectors/MarkerInspector.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/Macros.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.2.10/Editor/Manipulators/EditModeInputHandler.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.13/UnityEditor.TestRunner/Api/ICallbacksHolder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ProjectSettings/InputManager.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/manifest.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/UnityInstancing.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/SampleScene/LightingData.asset" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Lighting.hlsl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/ImageBasedLighting.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Input.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBufferInput.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.hlsl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/CommonLighting.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/SpaceTransforms.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Shadows.hlsl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Runtime/LightCullingPass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/ShaderLibrary/Common.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Tests/Runtime/Unity.com.render-pipelines.custom.Tests.asmdef" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ExampleAssets/Models/jigsaw_low.fbx.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/RiderScriptEditor.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Runtime/Inputs/InputRegistering.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.2.10/Editor/Manipulators/Utils/EditModeUtils.cs" root0="SKIP_HIGHLIGHTING" />
@@ -91,28 +111,29 @@
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.2.10/Editor/treeview/TrackPropertyCurvesDataSource.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_TextUtilities.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Core.hlsl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.2.10/Runtime/Playables/ParticleControlPlayable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/UnitTesting/RiderTestRunner.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/UnityInput.hlsl" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Shaders/DeferredLighting.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Runtime/Textures/RTHandles.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/SurfaceInput.hlsl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../unity2019/Runtime/Export/RenderPipeline/CullingResults.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Runtime/Textures/TextureXR.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../unity2019/Runtime/Export/Graphics/RenderingCommandBuffer.bindings.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/src/VMSRP/Runtime/ShaderData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../unity2019/Runtime/Export/NativeArray/NativeArray.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../unity2019/Runtime/Export/Graphics/RenderingCommandBuffer.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/MRTBufferManager.cs" />
-        <option value="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/ShaderBindings.cs" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Unlit.shader" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Lit.shader" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/Lit1.shader" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.hlsl" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/SurfaceInput.hlsl" />
-        <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.shader" />
-        <option value="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" />
-        <option value="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Lighting.hlsl" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Shadow.hlsl" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Shadows.hlsl" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/ShaderVariables.hlsl" />
@@ -120,7 +141,14 @@
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Core.hlsl" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Input.hlsl" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBufferInput.hlsl" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/ShaderBindings.cs" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/GBuffer.shader" />
         <option value="$PROJECT_DIR$/Packages/src/VMSRP/Shaders/DeferredLighting.shader" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/ShaderLibrary/Lighting.hlsl" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/package.json" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/ShaderData.cs" />
+        <option value="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/LightCullingPass.cs" />
       </list>
     </option>
   </component>
@@ -137,6 +165,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="XThreadsFramesViewSplitterKey" value="0.5007257" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -173,7 +203,13 @@
       <workItem from="1588220189412" duration="1204000" />
       <workItem from="1588750508103" duration="13368000" />
       <workItem from="1588822416552" duration="13528000" />
-      <workItem from="1588854192134" duration="20312000" />
+      <workItem from="1588854192134" duration="20694000" />
+      <workItem from="1589008086399" duration="12585000" />
+      <workItem from="1589183201699" duration="34667000" />
+      <workItem from="1589434456211" duration="17793000" />
+      <workItem from="1589857454934" duration="8740000" />
+      <workItem from="1589879880964" duration="11809000" />
+      <workItem from="1589944691259" duration="41127000" />
     </task>
     <servers />
   </component>
@@ -198,97 +234,117 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1855" y="291" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589877741867">
+      <screen x="-2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="-1855" y="291" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1589877741867" />
     <state width="561" height="466" key="DebuggerActiveHint" timestamp="1588838362953">
       <screen x="-2560" y="0" width="2048" height="1112" />
     </state>
     <state width="561" height="466" key="DebuggerActiveHint/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588838362953" />
-    <state width="2005" height="245" key="GridCell.Tab.0.bottom" timestamp="1588838340907">
-      <screen x="-2560" y="0" width="2048" height="1112" />
+    <state width="2005" height="184" key="GridCell.Tab.0.bottom" timestamp="1589166158577">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588007011071" />
     <state width="2005" height="245" key="GridCell.Tab.0.bottom/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588838340907" />
+    <state width="2005" height="184" key="GridCell.Tab.0.bottom/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1589166158577" />
     <state width="2005" height="242" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
-    <state width="2005" height="245" key="GridCell.Tab.0.center" timestamp="1588838340907">
-      <screen x="-2560" y="0" width="2048" height="1112" />
+    <state width="2005" height="184" key="GridCell.Tab.0.center" timestamp="1589166158577">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588007011071" />
     <state width="2005" height="245" key="GridCell.Tab.0.center/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588838340907" />
+    <state width="2005" height="184" key="GridCell.Tab.0.center/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1589166158577" />
     <state width="2005" height="242" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
-    <state width="2005" height="245" key="GridCell.Tab.0.left" timestamp="1588838340907">
-      <screen x="-2560" y="0" width="2048" height="1112" />
+    <state width="2005" height="184" key="GridCell.Tab.0.left" timestamp="1589166158577">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588007011071" />
     <state width="2005" height="245" key="GridCell.Tab.0.left/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588838340907" />
+    <state width="2005" height="184" key="GridCell.Tab.0.left/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1589166158577" />
     <state width="2005" height="242" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
-    <state width="2005" height="245" key="GridCell.Tab.0.right" timestamp="1588838340907">
-      <screen x="-2560" y="0" width="2048" height="1112" />
+    <state width="2005" height="184" key="GridCell.Tab.0.right" timestamp="1589166158577">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588007011071" />
     <state width="2005" height="245" key="GridCell.Tab.0.right/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588838340907" />
+    <state width="2005" height="184" key="GridCell.Tab.0.right/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1589166158577" />
     <state width="2005" height="242" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
-    <state width="2005" height="245" key="GridCell.Tab.1.bottom" timestamp="1588838345960">
-      <screen x="-2560" y="0" width="2048" height="1112" />
+    <state width="2005" height="184" key="GridCell.Tab.1.bottom" timestamp="1589166158577">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1877" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588007063657" />
     <state width="2005" height="245" key="GridCell.Tab.1.bottom/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588838345960" />
+    <state width="2005" height="184" key="GridCell.Tab.1.bottom/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1589166158577" />
     <state width="2005" height="242" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
-    <state width="2005" height="245" key="GridCell.Tab.1.center" timestamp="1588838345960">
-      <screen x="-2560" y="0" width="2048" height="1112" />
+    <state width="2005" height="184" key="GridCell.Tab.1.center" timestamp="1589166158577">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1877" height="375" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588007063657" />
     <state width="2005" height="245" key="GridCell.Tab.1.center/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588838345960" />
+    <state width="2005" height="184" key="GridCell.Tab.1.center/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1589166158577" />
     <state width="2005" height="242" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
-    <state width="2005" height="245" key="GridCell.Tab.1.left" timestamp="1588838345960">
-      <screen x="-2560" y="0" width="2048" height="1112" />
+    <state width="2005" height="184" key="GridCell.Tab.1.left" timestamp="1589166158577">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1877" height="375" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588007063657" />
     <state width="2005" height="245" key="GridCell.Tab.1.left/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588838345960" />
+    <state width="2005" height="184" key="GridCell.Tab.1.left/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1589166158577" />
     <state width="2005" height="242" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
-    <state width="2005" height="245" key="GridCell.Tab.1.right" timestamp="1588838345960">
-      <screen x="-2560" y="0" width="2048" height="1112" />
+    <state width="2005" height="184" key="GridCell.Tab.1.right" timestamp="1589166158577">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1877" height="375" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588007063657" />
     <state width="2005" height="245" key="GridCell.Tab.1.right/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588838345960" />
+    <state width="2005" height="184" key="GridCell.Tab.1.right/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1589166158577" />
     <state width="2005" height="242" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
-    <state width="2005" height="245" key="GridCell.Tab.2.bottom" timestamp="1588838340837">
-      <screen x="-2560" y="0" width="2048" height="1112" />
+    <state width="2005" height="184" key="GridCell.Tab.2.bottom" timestamp="1589166158578">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="245" key="GridCell.Tab.2.bottom/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588838340837" />
+    <state width="2005" height="184" key="GridCell.Tab.2.bottom/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1589166158578" />
     <state width="2005" height="242" key="GridCell.Tab.2.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
-    <state width="2005" height="245" key="GridCell.Tab.2.center" timestamp="1588838340837">
-      <screen x="-2560" y="0" width="2048" height="1112" />
+    <state width="2005" height="184" key="GridCell.Tab.2.center" timestamp="1589166158577">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="245" key="GridCell.Tab.2.center/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588838340837" />
+    <state width="2005" height="184" key="GridCell.Tab.2.center/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1589166158577" />
     <state width="2005" height="242" key="GridCell.Tab.2.center/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
-    <state width="2005" height="245" key="GridCell.Tab.2.left" timestamp="1588838340837">
-      <screen x="-2560" y="0" width="2048" height="1112" />
+    <state width="2005" height="184" key="GridCell.Tab.2.left" timestamp="1589166158577">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="245" key="GridCell.Tab.2.left/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588838340837" />
+    <state width="2005" height="184" key="GridCell.Tab.2.left/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1589166158577" />
     <state width="2005" height="242" key="GridCell.Tab.2.left/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
-    <state width="2005" height="245" key="GridCell.Tab.2.right" timestamp="1588838340837">
-      <screen x="-2560" y="0" width="2048" height="1112" />
+    <state width="2005" height="184" key="GridCell.Tab.2.right" timestamp="1589166158578">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="245" key="GridCell.Tab.2.right/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588838340837" />
+    <state width="2005" height="184" key="GridCell.Tab.2.right/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1589166158578" />
     <state width="2005" height="242" key="GridCell.Tab.2.right/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
-    <state width="2005" height="245" key="GridCell.Tab.3.bottom" timestamp="1588838340837">
-      <screen x="-2560" y="0" width="2048" height="1112" />
+    <state width="2005" height="184" key="GridCell.Tab.3.bottom" timestamp="1589166158578">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="245" key="GridCell.Tab.3.bottom/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588838340837" />
+    <state width="2005" height="184" key="GridCell.Tab.3.bottom/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1589166158578" />
     <state width="2005" height="242" key="GridCell.Tab.3.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189317" />
-    <state width="2005" height="245" key="GridCell.Tab.3.center" timestamp="1588838340837">
-      <screen x="-2560" y="0" width="2048" height="1112" />
+    <state width="2005" height="184" key="GridCell.Tab.3.center" timestamp="1589166158578">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="245" key="GridCell.Tab.3.center/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588838340837" />
+    <state width="2005" height="184" key="GridCell.Tab.3.center/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1589166158578" />
     <state width="2005" height="242" key="GridCell.Tab.3.center/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
-    <state width="2005" height="245" key="GridCell.Tab.3.left" timestamp="1588838340837">
-      <screen x="-2560" y="0" width="2048" height="1112" />
+    <state width="2005" height="184" key="GridCell.Tab.3.left" timestamp="1589166158578">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="245" key="GridCell.Tab.3.left/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588838340837" />
+    <state width="2005" height="184" key="GridCell.Tab.3.left/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1589166158578" />
     <state width="2005" height="242" key="GridCell.Tab.3.left/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
-    <state width="2005" height="245" key="GridCell.Tab.3.right" timestamp="1588838340837">
-      <screen x="-2560" y="0" width="2048" height="1112" />
+    <state width="2005" height="184" key="GridCell.Tab.3.right" timestamp="1589166158578">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="245" key="GridCell.Tab.3.right/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588838340837" />
+    <state width="2005" height="184" key="GridCell.Tab.3.right/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1589166158578" />
     <state width="2005" height="242" key="GridCell.Tab.3.right/0.0.2048.1112@0.0.2048.1112" timestamp="1588165189316" />
     <state x="84" y="86" key="SettingsEditor" timestamp="1587911862311">
       <screen x="0" y="0" width="2048" height="1112" />
@@ -299,16 +355,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1587312465371" />
-    <state x="-1907" y="297" width="835" height="532" key="find.popup" timestamp="1588935716721">
-      <screen x="-2560" y="0" width="2048" height="1112" />
+    <state x="-2341" y="24" width="1548" height="1098" maximized="true" key="dock-window-1" timestamp="1590150563945">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="-1907" y="297" width="835" height="532" key="find.popup/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588935716721" />
-    <state x="606" y="290" width="835" height="532" key="find.popup/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1588138135259" />
-    <state x="-1873" y="243" width="717" height="679" key="search.everywhere.popup" timestamp="1588752530826">
+    <state x="-2341" y="24" width="1548" height="1098" maximized="true" key="dock-window-1/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1590043504423" />
+    <state x="-2341" y="24" width="1548" height="1098" maximized="true" key="dock-window-1/0.0.2048.1112@0.0.2048.1112" timestamp="1590150563945" />
+    <state x="606" y="290" width="835" height="532" key="find.popup" timestamp="1590070823259">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="-2203" y="156" width="835" height="532" key="find.popup/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1589195019048" />
+    <state x="606" y="290" width="835" height="532" key="find.popup/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1590070823259" />
+    <state x="357" y="156" width="835" height="532" key="find.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1589208335646" />
+    <state x="-1873" y="243" width="717" height="679" key="search.everywhere.popup" timestamp="1589876077155">
       <screen x="-2560" y="0" width="2048" height="1112" />
     </state>
     <state x="644" y="227" width="672" height="635" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588005132239" />
-    <state x="-1873" y="243" width="717" height="679" key="search.everywhere.popup/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1588752530826" />
+    <state x="-1873" y="243" width="717" height="679" key="search.everywhere.popup/0.0.2048.1112/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1589876077155" />
     <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1587921633011" />
   </component>
   <component name="XDebuggerManager">
@@ -341,17 +403,17 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs</url>
-          <line>176</line>
-          <properties documentPath="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/CustomRenderPipeline.cs" initialLine="173">
+          <url>file://$PROJECT_DIR$/Packages/src/VMSRP/Runtime/ShaderBindings.cs</url>
+          <line>126</line>
+          <properties documentPath="$PROJECT_DIR$/Packages/src/VMSRP/Runtime/ShaderBindings.cs" initialLine="126">
             <startOffsets>
-              <option value="8323" />
+              <option value="6851" />
             </startOffsets>
             <endOffsets>
-              <option value="8357" />
+              <option value="6912" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="8" />
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

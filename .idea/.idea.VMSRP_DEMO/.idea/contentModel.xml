@@ -26,7 +26,9 @@
             <e p="Runtime" t="Include">
               <e p="CustomRenderPipeline.cs" t="Include" />
               <e p="CustomRenderPipelineAsset.cs" t="Include" />
+              <e p="LightCullingPass.cs" t="Include" />
               <e p="ShaderBindings.cs" t="Include" />
+              <e p="ShaderData.cs" t="Include" />
               <e p="Unity.com.render-pipelines.custom.asmdef" t="Include" />
             </e>
           </e>
