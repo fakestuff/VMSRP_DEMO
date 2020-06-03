@@ -12,3 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e8afd70ca52cc2f408591ea1d6eff54e, type: 3}
   m_Name: New Custom Render Pipeline Asset
   m_EditorClassIdentifier: 
+  DebugZBinningIndex: 0
+  TileSize: 64
+  NumberChartTexture: {fileID: 2800000, guid: cfb528b2376049a4ba45863917594eb8, type: 3}
+  DebugTileCount: 1
